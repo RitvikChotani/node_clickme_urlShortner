@@ -1,0 +1,633 @@
+{"level":"info","message":"Server is up and listening on port 4000"}
+{"level":"info","message":"Server is up and listening on port 4000"}
+[info] - Server is up and listening on port 4000
+[info] - Server is up and listening on port 4000
+[info] - undefined: Server is up and listening on port 4000
+[INFO   ] - undefined: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T17:50:00.868Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T18:08:29.334Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T18:09:22.634Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T18:09:51.724Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T18:09:54.323Z: GET:/ - function status(code) {
+  this.statusCode = code;
+  return this;
+}, ::1
+[INFO   ] - 2022-04-14T18:09:54.459Z: GET:/favicon.ico - function status(code) {
+  this.statusCode = code;
+  return this;
+}, ::1
+[INFO   ] - 2022-04-14T18:10:06.994Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T18:10:08.586Z: GET:/ - function status(code) {
+  this.statusCode = code;
+  return this;
+}, ::1
+[INFO   ] - 2022-04-14T18:11:12.667Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T18:11:14.322Z: GET:/ - 200, ::1
+[INFO   ] - 2022-04-14T18:11:49.425Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T18:11:50.891Z: GET:localhost/:undefined - 200, ::1
+[INFO   ] - 2022-04-14T18:12:08.229Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T18:12:10.092Z: GET:localhost/ - 200, ::1
+[INFO   ] - 2022-04-14T20:25:17.491Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:25:56.309Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:00.645Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:04.175Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:05.185Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:15.256Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:20.318Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:25.000Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:27.403Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:28.856Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:34.709Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:39.915Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:26:43.748Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:36:10.051Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:36:10.443Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T20:36:43.617Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:36:46.338Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:36:47.063Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T20:36:54.196Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:36:54.526Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T20:37:14.228Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:37:22.108Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:37:22.872Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T20:37:27.198Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:37:27.538Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T20:37:33.354Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:37:34.178Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T20:37:35.324Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:37:35.677Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T20:37:36.685Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:37:37.027Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T20:37:45.848Z: Server is up and listening on port 4000
+[ERROR  ] - 2022-04-14T20:37:45.850Z: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[INFO   ] - 2022-04-14T20:38:04.564Z: Server is up and listening on port 4000
+[ERROR  ] - 2022-04-14T20:38:04.566Z: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[INFO   ] - 2022-04-14T20:38:13.102Z: Server is up and listening on port 4000
+[ERROR  ] - 2022-04-14T20:38:13.105Z: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[INFO   ] - 2022-04-14T20:38:18.892Z: Server is up and listening on port 4000
+[ERROR  ] - 2022-04-14T20:38:18.895Z: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at NativeConnection.Connection.openUri (C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\index.js:340:10
+    at C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\index.js:1174:10)
+    at Mongoose.connect (C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\index.js:339:20)
+    at connectDB (C:\Users\ritvi\Desktop\pick.me\server\db\db.js:7:33)
+    at Server.<anonymous> (C:\Users\ritvi\Desktop\pick.me\server\index.js:16:2)
+    at Object.onceWrapper (node:events:645:28)
+[INFO   ] - 2022-04-14T20:38:24.640Z: Server is up and listening on port 4000
+[ERROR  ] - 2022-04-14T20:38:24.642Z: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at NativeConnection.Connection.openUri (C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\index.js:340:10
+    at C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\index.js:1174:10)
+    at Mongoose.connect (C:\Users\ritvi\Desktop\pick.me\server\node_modules\mongoose\lib\index.js:339:20)
+    at connectDB (C:\Users\ritvi\Desktop\pick.me\server\db\db.js:7:33)
+    at Server.<anonymous> (C:\Users\ritvi\Desktop\pick.me\server\index.js:16:2)
+    at Object.onceWrapper (node:events:645:28)
+[INFO   ] - 2022-04-14T20:38:39.263Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T20:38:39.715Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:11:03.742Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:11:04.137Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:11:12.863Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:11:13.222Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:11:49.060Z: POST:localhost/ - 200, ::1
+[INFO   ] - 2022-04-14T21:12:17.128Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:12:17.502Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:12:26.832Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:12:27.804Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:12:28.145Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:12:56.517Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:12:56.861Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:13:16.617Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:13:17.661Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:13:19.185Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:13:20.104Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:13:20.466Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:14:01.610Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:14:01.975Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:15:03.632Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:15:03.997Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:15:06.895Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:15:07.244Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:15:32.665Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:15:33.014Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:17:11.603Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:17:12.541Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:17:12.895Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:17:29.782Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:17:30.526Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:17:33.629Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:17:33.977Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:17:39.172Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:17:39.531Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:17:43.679Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:17:44.693Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:17:45.039Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:18:03.084Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:18:03.417Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:18:09.964Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:18:10.307Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:18:30.895Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:18:31.430Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:18:41.088Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:18:41.435Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:18:47.119Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:18:48.045Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:18:48.387Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:19:14.508Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:19:15.402Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:19:17.431Z: POST:localhost/create - 200, ::1
+[ERROR  ] - 2022-04-14T21:19:17.467Z: TypeError: Cannot read properties of null (reading 'urlID')
+    at createNanoURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:15:101)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:19:49.884Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:19:50.990Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:19:51.238Z: POST:localhost/create - 200, ::1
+[ERROR  ] - 2022-04-14T21:19:51.457Z: TypeError: Cannot read properties of null (reading 'urlID')
+    at createNanoURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:24:88)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:20:10.346Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:20:10.689Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:20:15.802Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:20:16.139Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:20:19.272Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:20:19.608Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:20:24.069Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:20:24.409Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:20:37.154Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:20:38.328Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:20:42.450Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:20:42.818Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:20:45.580Z: POST:localhost/create - 200, ::1
+[ERROR  ] - 2022-04-14T21:20:45.668Z: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (C:\Users\ritvi\Desktop\clck.me\server\node_modules\express\lib\response.js:776:10)
+    at ServerResponse.send (C:\Users\ritvi\Desktop\clck.me\server\node_modules\express\lib\response.js:170:12)
+    at ServerResponse.json (C:\Users\ritvi\Desktop\clck.me\server\node_modules\express\lib\response.js:267:15)
+    at createNanoURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:24:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:21:22.792Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:21:34.631Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:21:34.995Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:21:37.327Z: POST:localhost/create - 200, ::1
+[ERROR  ] - 2022-04-14T21:21:37.417Z: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (C:\Users\ritvi\Desktop\clck.me\server\node_modules\express\lib\response.js:776:10)
+    at ServerResponse.send (C:\Users\ritvi\Desktop\clck.me\server\node_modules\express\lib\response.js:170:12)
+    at ServerResponse.json (C:\Users\ritvi\Desktop\clck.me\server\node_modules\express\lib\response.js:267:15)
+    at createNanoURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:24:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:21:54.764Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:21:55.131Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:21:56.289Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:21:56.630Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:21:58.120Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:21:59.219Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:22:00.067Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:22:03.804Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:22:04.157Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:22:07.737Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:22:08.086Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:22:17.483Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:22:17.833Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:22:19.731Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:22:20.701Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:22:21.039Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:22:32.776Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:22:33.122Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:22:57.896Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:22:58.256Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:23:01.824Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:23:02.167Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:23:03.603Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:23:03.945Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:23:06.523Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:23:07.441Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:23:07.776Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:23:10.945Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:23:21.092Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:23:39.215Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:23:39.603Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:23:43.291Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:24:15.772Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:24:16.158Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:24:44.258Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:24:45.119Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:24:46.195Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:24:46.566Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:24:50.788Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:24:51.143Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:24:54.468Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:24:54.816Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:24:56.044Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:24:57.292Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:24:57.849Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:25:08.478Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:25:09.981Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:25:10.319Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:25:11.742Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:25:12.094Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:26:59.093Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:26:59.476Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:27:38.653Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:27:39.001Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:27:47.538Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:27:47.879Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:29:33.542Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:29:33.920Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:30:11.254Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:30:11.598Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:30:17.400Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:30:18.411Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:30:18.762Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:30:36.238Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:30:36.642Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:30:44.311Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:30:44.683Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:30:46.571Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:30:46.943Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:30:49.810Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:30:50.140Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:31:16.633Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:31:16.993Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:31:19.023Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:31:19.372Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:31:30.188Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:31:32.493Z: GET:localhost/MF95X - 200, ::1
+[INFO   ] - 2022-04-14T21:31:32.541Z: GET:localhost/facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:32:39.631Z: GET:localhost/MF95X - 200, ::1
+[INFO   ] - 2022-04-14T21:32:39.666Z: GET:localhost/facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:33:41.000Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:33:41.644Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:33:46.513Z: GET:localhost/facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:34:14.062Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:34:14.419Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:34:15.540Z: GET:localhost/facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:34:37.269Z: GET:localhost/MF95X - 200, ::1
+[INFO   ] - 2022-04-14T21:34:37.315Z: GET:localhost/facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:34:50.538Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:34:50.895Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:34:57.709Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:34:58.046Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:35:09.381Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:35:09.745Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:35:20.240Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:35:20.581Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:35:25.683Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:35:26.040Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:35:28.533Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:35:29.204Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:35:33.134Z: GET:localhost/MF95X - 200, ::1
+[ERROR  ] - 2022-04-14T21:35:33.183Z: TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:371:5)
+    at onParseError (node:internal/url:552:9)
+    at new URL (node:internal/url:628:5)
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:38:24)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:36:08.976Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:36:09.384Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:36:11.296Z: GET:localhost/MF95X - 200, ::1
+[ERROR  ] - 2022-04-14T21:36:11.343Z: TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:371:5)
+    at onParseError (node:internal/url:552:9)
+    at new URL (node:internal/url:628:5)
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:38:24)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:36:40.574Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:36:45.220Z: GET:localhost/Av2eQ - 200, ::1
+[ERROR  ] - 2022-04-14T21:36:45.254Z: TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:371:5)
+    at onParseError (node:internal/url:552:9)
+    at new URL (node:internal/url:628:5)
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:38:24)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:37:08.932Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:37:09.310Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:37:09.768Z: GET:localhost/Av2eQ - 200, ::1
+[ERROR  ] - 2022-04-14T21:37:09.815Z: TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:371:5)
+    at onParseError (node:internal/url:552:9)
+    at new URL (node:internal/url:628:5)
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:38:24)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:37:16.455Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:37:16.837Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:37:17.133Z: GET:localhost/Av2eQ - 200, ::1
+[INFO   ] - 2022-04-14T21:37:17.187Z: GET:localhost/www.facebook.com - 200, ::1
+[ERROR  ] - 2022-04-14T21:37:17.221Z: TypeError: Cannot read properties of null (reading 'url')
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:36:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:38:32.525Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:38:32.931Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:38:34.515Z: GET:localhost/Av2eQ - 200, ::1
+[INFO   ] - 2022-04-14T21:38:34.568Z: GET:localhost/www.facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:39:08.076Z: GET:localhost/Av2eQ - 200, ::1
+[INFO   ] - 2022-04-14T21:39:08.115Z: GET:localhost/www.facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:39:22.418Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:39:22.442Z: GET:localhost/www.facebook.com - 200, ::ffff:127.0.0.1
+[INFO   ] - 2022-04-14T21:39:23.129Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:39:24.177Z: GET:localhost/Av2eQ - 200, ::1
+[INFO   ] - 2022-04-14T21:39:24.311Z: GET:localhost/www.facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:40:43.654Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:40:44.018Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:40:47.944Z: GET:localhost/Av2eQ - 200, ::1
+[INFO   ] - 2022-04-14T21:41:02.521Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:41:09.402Z: GET:localhost/0WpKj - 200, ::1
+[INFO   ] - 2022-04-14T21:41:09.448Z: GET:localhost/www.facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:41:42.834Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:41:43.788Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:41:47.931Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:41:48.332Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:41:49.938Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:41:50.276Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:41:53.920Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:41:54.276Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:41:56.587Z: GET:localhost/0WpKj - 200, ::1
+[INFO   ] - 2022-04-14T21:42:10.384Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:42:10.734Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:42:13.686Z: GET:localhost/www.facebook.com - 200, ::1
+[INFO   ] - 2022-04-14T21:42:14.125Z: GET:localhost/0WpKj - 200, ::1
+[INFO   ] - 2022-04-14T21:42:28.899Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:42:29.262Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:42:31.028Z: GET:localhost/0WpKj - 200, ::1
+[INFO   ] - 2022-04-14T21:42:31.104Z: GET:localhost/www.google.com - 200, ::1
+[INFO   ] - 2022-04-14T21:43:56.489Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:43:56.872Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:04.521Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:05.311Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:10.922Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:11.255Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:15.079Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:15.411Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:20.373Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:20.716Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:23.452Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:24.600Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:24.934Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:41.881Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:42.224Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:45.581Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:45.925Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:48.157Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:44:48.496Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:44:50.330Z: GET:localhost/0WpKj - 200, ::1
+[ERROR  ] - 2022-04-14T21:44:50.372Z: TypeError: URL.parse is not a function
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:37:28)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:45:50.995Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:45:52.338Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:45:52.668Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:45:55.076Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:45:55.405Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:45:59.358Z: GET:localhost/0WpKj - 200, ::1
+[ERROR  ] - 2022-04-14T21:45:59.403Z: TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:371:5)
+    at onParseError (node:internal/url:552:9)
+    at new URL (node:internal/url:628:5)
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:37:24)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:46:05.048Z: GET:localhost/0WpKj - 200, ::1
+[ERROR  ] - 2022-04-14T21:46:05.082Z: TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:371:5)
+    at onParseError (node:internal/url:552:9)
+    at new URL (node:internal/url:628:5)
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:37:24)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:46:51.018Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:46:51.372Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:46:53.366Z: GET:localhost/0WpKj - 200, ::1
+[INFO   ] - 2022-04-14T21:46:53.418Z: GET:localhost/undefined - 200, ::1
+[INFO   ] - 2022-04-14T21:48:12.271Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:48:13.077Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:48:19.276Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:48:21.162Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:48:21.496Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:48:25.526Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:48:25.856Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:48:29.348Z: GET:localhost/0WpKj - 200, ::1
+[ERROR  ] - 2022-04-14T21:48:29.395Z: TypeError: url.parse is not a function
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:37:28)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:49:35.045Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:49:35.419Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:49:36.686Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:49:37.024Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:49:40.112Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:49:40.702Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:49:46.089Z: GET:localhost/0WpKj - 200, ::1
+[ERROR  ] - 2022-04-14T21:49:46.130Z: TypeError: url.parse is not a function
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:37:28)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:49:59.166Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:49:59.512Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:50:00.871Z: GET:localhost/0WpKj - 200, ::1
+[INFO   ] - 2022-04-14T21:50:00.922Z: GET:localhost/undefined - 200, ::1
+[INFO   ] - 2022-04-14T21:50:15.037Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:50:15.782Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:50:18.587Z: GET:localhost/0WpKj - 200, ::1
+[ERROR  ] - 2022-04-14T21:50:18.639Z: TypeError: Cannot read properties of undefined (reading 'parse')
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:37:28)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:50:32.293Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:50:32.620Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:50:38.305Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:50:39.343Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:50:55.073Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:50:55.404Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:50:59.678Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:51:00.046Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:51:05.873Z: POST:localhost/create - 200, ::1
+[ERROR  ] - 2022-04-14T21:51:05.921Z: TypeError: url.URL is not a constructor
+    at createNanoURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:15:83)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:52:09.016Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:52:09.399Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:52:16.779Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:52:17.100Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:52:27.811Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:52:28.165Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:52:30.515Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:52:30.854Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:52:37.372Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:52:37.718Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:52:40.493Z: GET:localhost/0WpKj - 200, ::1
+[INFO   ] - 2022-04-14T21:52:40.543Z: GET:localhost/undefined - 200, ::1
+[INFO   ] - 2022-04-14T21:53:01.551Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:01.874Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:04.734Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:06.520Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:06.853Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:08.253Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:08.682Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:10.270Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:10.617Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:14.705Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:15.218Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:18.145Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:18.522Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:21.834Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:22.172Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:23.615Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:41.512Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:41.860Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:45.267Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:45.601Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:47.300Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:48.161Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:51.701Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:52.039Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:53:57.158Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:53:57.496Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:54:01.550Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:54:01.895Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:54:05.958Z: GET:localhost/0WpKj - 200, ::1
+[INFO   ] - 2022-04-14T21:54:06.005Z: GET:localhost/[object%20Object] - 200, ::1
+[INFO   ] - 2022-04-14T21:54:19.741Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:54:20.737Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:54:21.102Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:54:42.503Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:55:12.544Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:13.097Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:16.041Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:16.395Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:22.694Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:23.130Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:26.410Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:26.753Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:30.826Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:31.230Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:34.130Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:34.752Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:37.932Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:38.291Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:42.674Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:43.015Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:46.013Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:46.638Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:54.539Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:54.927Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:55:59.417Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:55:59.813Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:01.858Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:02.207Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:04.284Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:04.621Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:08.951Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:09.676Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:12.627Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:13.064Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:25.966Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:26.352Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:27.866Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:28.202Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:29.781Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:30.126Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:44.415Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:45.349Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:46.941Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:47.282Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:56:51.751Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:56:52.078Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:57:01.979Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:57:02.333Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:57:07.598Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:57:07.979Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:57:09.944Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T21:57:18.536Z: GET:localhost/LGZcR - 200, ::1
+[INFO   ] - 2022-04-14T21:57:18.579Z: GET:localhost/[object%20Object] - 200, ::1
+[INFO   ] - 2022-04-14T21:57:27.801Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:57:28.202Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:57:35.663Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:57:36.004Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:58:33.047Z: GET:localhost/LGZcR - 200, ::1
+[INFO   ] - 2022-04-14T21:58:43.455Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:58:44.106Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:58:46.075Z: GET:localhost/LGZcR - 200, ::1
+[ERROR  ] - 2022-04-14T21:58:46.122Z: TypeError [ERR_INVALID_ARG_TYPE]: The "url" argument must be of type string. Received an instance of model
+    at new NodeError (node:internal/errors:371:5)
+    at validateString (node:internal/validators:120:11)
+    at Url.parse (node:url:169:3)
+    at urlParse (node:url:156:13)
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:42:22)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T21:59:28.220Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:59:28.566Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T21:59:31.320Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T21:59:31.651Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:00:07.026Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:00:07.827Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:00:13.089Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:00:13.430Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:00:21.798Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:00:22.142Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:00:25.578Z: GET:localhost/LGZcR - 200, ::1
+[ERROR  ] - 2022-04-14T22:00:25.620Z: TypeError [ERR_INVALID_ARG_TYPE]: The "url" argument must be of type string. Received an instance of model
+    at new NodeError (node:internal/errors:371:5)
+    at validateString (node:internal/validators:120:11)
+    at Url.parse (node:url:169:3)
+    at urlParse (node:url:156:13)
+    at redirectToURL (C:\Users\ritvi\Desktop\clck.me\server\controller\urlController.js:42:22)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[INFO   ] - 2022-04-14T22:00:56.750Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:00:57.106Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:01:00.708Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:01:01.067Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:01:05.529Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:01:06.262Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:01:08.064Z: GET:localhost/LGZcR - 200, ::1
+[INFO   ] - 2022-04-14T22:01:08.125Z: GET:localhost/%7B%0A%20%20_id:%20new%20ObjectId(%22625898b6e815961efccb6c2b%22),%0A%20%20url:%20'https://www.google.com',%0A%20%20urlID:%20'LGZcR',%0A%20%20__v:%200%0A%7D - 200, ::1
+[INFO   ] - 2022-04-14T22:01:24.732Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:01:25.099Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:01:26.963Z: GET:localhost/LGZcR - 200, ::1
+[INFO   ] - 2022-04-14T22:01:45.789Z: GET:localhost/LGZcR - 200, ::1
+[INFO   ] - 2022-04-14T22:02:07.250Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T22:02:16.699Z: GET:localhost/lyq0j - 200, ::1
+[INFO   ] - 2022-04-14T22:02:21.032Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T22:03:30.523Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:03:30.906Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:03:35.847Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:03:36.191Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:03:45.765Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:03:46.791Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:03:47.132Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:03:50.406Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T22:03:51.388Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:03:51.725Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:04:21.608Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T22:04:22.582Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:04:22.924Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:04:37.008Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:04:37.359Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:04:39.578Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T22:04:40.575Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:04:41.311Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:05:52.334Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:05:53.194Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:06:59.363Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:06:59.716Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:07:05.623Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:07:06.639Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:07:06.967Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:07:11.259Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:07:11.619Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:07:14.773Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T22:07:15.799Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:07:16.504Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:07:17.762Z: GET:localhost/q6xPa - 200, ::1
+[INFO   ] - 2022-04-14T22:07:27.878Z: GET:localhost/q6xPa - 200, ::1
+[INFO   ] - 2022-04-14T22:07:32.713Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T22:07:33.662Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:07:33.994Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:07:54.408Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:07:54.770Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:07:55.928Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:07:56.277Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
+[INFO   ] - 2022-04-14T22:07:57.274Z: POST:localhost/create - 200, ::1
+[INFO   ] - 2022-04-14T22:08:02.109Z: Server is up and listening on port 4000
+[INFO   ] - 2022-04-14T22:08:02.835Z: Connected to Database on cluster0-shard-00-00.rf7ji.mongodb.net
